@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8827740286:AAHKijNACOAbXyEpB6--HXMh1344oFtwTo0")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 import asyncio
 import html
